@@ -10,7 +10,7 @@ This project analyzes public library datasets to uncover patterns in accessibili
 
 ## 🗂️ Dataset
 
-- **Source**: [Insert data source if applicable, e.g., IMLS Public Libraries Survey or data.gov]
+- **Source**: data.gov
 - **Content**: Library locations, population served, collection size, internet access, staffing, and budget-related data
 
 ## 🎯 Objectives
