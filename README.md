@@ -7,11 +7,6 @@ This project analyzes public library datasets to uncover patterns in accessibili
 
 - **Course**: IE6600 Computation and Visualization for Analytics  
 - **Semester**: Spring 2025  
-- **Instructor**: Prof. Sivarit Sultornsanee  
-- **Team Members**:
-  - Stephy Romichan
-  - Gagan Yadav
-  - Meghana Rao  
 
 ## 🗂️ Dataset
 
